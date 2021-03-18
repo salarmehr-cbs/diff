@@ -1,0 +1,18 @@
+{
+  "autoload": {
+    "classmap": [
+      "app"
+    ]
+  },
+  "require": {
+    "php": ">=7.4",
+    "symfony/console": "^5.2",
+    "guzzlehttp/guzzle": "^7.0",
+    "jfcherng/php-diff": "^6.9"
+  },
+  "config": {
+    "platform": {
+      "php": "7.4.15"
+    }
+  }
+}
